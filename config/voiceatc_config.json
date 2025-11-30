@@ -1,0 +1,13 @@
+{
+  "stt_engine": "vosk",
+  "vosk_model_path": "models/vosk-model-en-us-0.42-gigaspeech",
+  "whisper_model_size": "tiny",
+  "push_to_talk_key": "shift",
+  "tts_voice": "Microsoft Zira Desktop",
+  "output_device": "CABLE Input (VB-Audio Virtual Cable)",
+  "confidence_threshold": 0.7,
+  "auto_normalize_numbers": true,
+  "language": "en-US",
+  "audio_sample_rate": 16000,
+  "audio_chunk_size": 4096
+}
