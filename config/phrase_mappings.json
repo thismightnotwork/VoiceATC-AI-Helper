@@ -1,0 +1,69 @@
+{
+  "mappings": [
+    {
+      "variants": [
+        "ready for departure",
+        "ready for takeoff",
+        "ready to depart",
+        "tower ready for departure"
+      ],
+      "canonical": "tower ready for departure"
+    },
+    {
+      "variants": [
+        "climb maintain",
+        "climb and maintain",
+        "climb to altitude"
+      ],
+      "canonical": "climb maintain altitude"
+    },
+    {
+      "variants": [
+        "descend maintain",
+        "descend and maintain",
+        "descend to altitude"
+      ],
+      "canonical": "descend maintain altitude"
+    },
+    {
+      "variants": [
+        "turn left heading",
+        "turn left to heading",
+        "left heading"
+      ],
+      "canonical": "turn left heading"
+    },
+    {
+      "variants": [
+        "turn right heading",
+        "turn right to heading",
+        "right heading"
+      ],
+      "canonical": "turn right heading"
+    },
+    {
+      "variants": [
+        "contact tower",
+        "tower frequency",
+        "change to tower"
+      ],
+      "canonical": "tower frequency"
+    },
+    {
+      "variants": [
+        "squawk",
+        "set squawk",
+        "transponder code"
+      ],
+      "canonical": "squawk"
+    },
+    {
+      "variants": [
+        "speed",
+        "reduce speed",
+        "maintain speed"
+      ],
+      "canonical": "maintain speed"
+    }
+  ]
+}
